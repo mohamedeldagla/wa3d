@@ -95,4 +95,4 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 > Special thanks to you for using bot
 
 ### Support & Updates 
-<a href="https://t.me/KyuraSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KyuraProjects"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/music_k2aba"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/k_2_a_b_a"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
